@@ -1,1 +1,1 @@
-# gold-repository
+# Repository with containing uat branches
